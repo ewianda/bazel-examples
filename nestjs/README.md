@@ -1,0 +1,1 @@
+regenerator-runtime is needed for compiling via swc
